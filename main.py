@@ -1,4 +1,3 @@
-"""Command‑line batch processor."""
 import argparse
 from pathlib import Path
 from ocr import extract_label
